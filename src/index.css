@@ -104,3 +104,15 @@ main {
 .top {
     top: 0;
 }
+
+.download {
+  display: flex;
+  margin: 10px auto;
+  padding: 10px 15px;
+  background-color: #2ecc71;
+    text-decoration: none;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
